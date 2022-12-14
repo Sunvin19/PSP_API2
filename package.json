@@ -1,0 +1,25 @@
+{
+  "name": "packagekevinjson",
+  "version": "1.0.0",
+  "description": "yepa",
+  "main": "hola",
+  "scripts": {
+    "test": "si",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "no"
+  },
+  "keywords": [
+    "tam"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.7.2",
+    "nodemon": "^2.0.20"
+  }
+}
