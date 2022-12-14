@@ -22,7 +22,7 @@ database.once('connected', () => {
     console.log('Altoque mi rey');
 })
 
-const PORT = profes.env.PORT;
+const PORT = process.env.PORT;
 app.listen(PORT, () => {
     console.log(`Server Started at ${3000}`)
 })
